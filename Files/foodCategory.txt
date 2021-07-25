@@ -1,0 +1,3 @@
+Fastfood,Spicy food,2021-06-15,
+Italian,Italian Delicacies,2021-06-22,
+Desi Food,National Delicacies,2021-06-22,
